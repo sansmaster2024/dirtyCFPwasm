@@ -1,0 +1,11 @@
+C:\Users\jihoon\Downloads\nativeAOTLLVM\bin\Release\net9.0\NativeLibrary.deps.json
+C:\Users\jihoon\Downloads\nativeAOTLLVM\bin\Release\net9.0\NativeLibrary.dll
+C:\Users\jihoon\Downloads\nativeAOTLLVM\bin\Release\net9.0\NativeLibrary.pdb
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Release\net9.0\NativeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Release\net9.0\NativeLibrary.AssemblyInfoInputs.cache
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Release\net9.0\NativeLibrary.AssemblyInfo.cs
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Release\net9.0\NativeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Release\net9.0\NativeLibrary.dll
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Release\net9.0\refint\NativeLibrary.dll
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Release\net9.0\NativeLibrary.pdb
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Release\net9.0\ref\NativeLibrary.dll

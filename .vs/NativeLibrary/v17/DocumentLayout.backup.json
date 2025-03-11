@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|c:\\users\\jihoon\\downloads\\nativeaotllvm\\filters\\camerafilterpack_blur_tilt_shift_hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|solutionrelative:filters\\camerafilterpack_blur_tilt_shift_hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|c:\\users\\jihoon\\downloads\\nativeaotllvm\\unityengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|solutionrelative:unityengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|c:\\users\\jihoon\\downloads\\nativeaotllvm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|c:\\users\\jihoon\\downloads\\nativeaotllvm\\nativelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|solutionrelative:nativelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|c:\\users\\jihoon\\downloads\\nativeaotllvm\\webgl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|solutionrelative:webgl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|c:\\users\\jihoon\\downloads\\nativeaotllvm\\filters\\camerafilterpack_real_vhs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D03E77-DC9F-4006-AC68-6C94AD3892BD}|NativeLibrary.csproj|solutionrelative:filters\\camerafilterpack_real_vhs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraFilterPack_Blur_Tilt_Shift_Hole.cs",
+              "DocumentMoniker": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\filters\\CameraFilterPack_Blur_Tilt_Shift_Hole.cs",
+              "RelativeDocumentMoniker": "filters\\CameraFilterPack_Blur_Tilt_Shift_Hole.cs",
+              "ToolTip": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\filters\\CameraFilterPack_Blur_Tilt_Shift_Hole.cs",
+              "RelativeToolTip": "filters\\CameraFilterPack_Blur_Tilt_Shift_Hole.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAE4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:20:00.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraFilterPack_Real_VHS.cs",
+              "DocumentMoniker": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\filters\\CameraFilterPack_Real_VHS.cs",
+              "RelativeDocumentMoniker": "filters\\CameraFilterPack_Real_VHS.cs",
+              "ToolTip": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\filters\\CameraFilterPack_Real_VHS.cs",
+              "RelativeToolTip": "filters\\CameraFilterPack_Real_VHS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:08:35.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnityEngine.cs",
+              "DocumentMoniker": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\UnityEngine.cs",
+              "RelativeDocumentMoniker": "UnityEngine.cs",
+              "ToolTip": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\UnityEngine.cs",
+              "RelativeToolTip": "UnityEngine.cs",
+              "ViewState": "AgIAAG4DAAAAAAAAAAAowJQDAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:59:18.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebGL.cs",
+              "DocumentMoniker": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\WebGL.cs",
+              "RelativeDocumentMoniker": "WebGL.cs",
+              "ToolTip": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\WebGL.cs",
+              "RelativeToolTip": "WebGL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:52:00.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NativeLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\NativeLibrary.csproj",
+              "RelativeDocumentMoniker": "NativeLibrary.csproj",
+              "ToolTip": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\NativeLibrary.csproj",
+              "RelativeToolTip": "NativeLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T08:17:31.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAIwHsBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:17:24.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

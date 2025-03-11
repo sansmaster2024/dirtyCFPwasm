@@ -1,0 +1,33 @@
+﻿"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/framework/libSystem.Native.a"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/framework/libSystem.Native.TimeZoneData.a"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/sdk/libbootstrapperdll.o"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/sdk/libPortableRuntime.a"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/sdk/libstandalonegc-disabled.a"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/sdk/libWasmExceptionHandling.a"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/framework/libicuuc.a"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/framework/libicui18n.a"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/framework/libicudata.a"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/framework/libSystem.Globalization.Native.a"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/framework/libSystem.Globalization.Native.Icudt.a"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.external.o"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.o"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.0.o"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.1.o"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.2.o"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.3.o"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.4.o"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.5.o"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.6.o"
+"obj/Debug/net9.0/browser-wasm/native/NativeLibrary.7.o"
+"C:/Users/jihoon/.nuget/packages/runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1/sdk/libStackTraceIpCanary.o"
+-o "bin/Debug/net9.0/browser-wasm/native/NativeLibrary.js"
+-g3
+-target wasm32-unknown-emscripten
+--js-library "C:\Users\jihoon\.nuget\packages\runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm\9.0.0-rc.1.24468.1\framework\pal_random.lib.js"
+-s EXPORTED_FUNCTIONS=@"obj\Debug\net9.0\browser-wasm\native\NativeLibrary.exports"
+-s ALLOW_MEMORY_GROWTH=1
+-s ERROR_ON_UNDEFINED_SYMBOLS=0
+-s GLOBAL_BASE=1024
+-s TOTAL_STACK=1048576
+-s WASM_BIGINT=1
+-sEXPORTED_RUNTIME_METHODS=cwrap,ccall,stringToNewUTF8

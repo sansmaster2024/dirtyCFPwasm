@@ -1,0 +1,2 @@
+C:\Users\jihoon\Downloads\nativeAOTLLVM\bin\Debug\net9.0\browser-wasm\publish\NativeLibrary.js
+C:\Users\jihoon\Downloads\nativeAOTLLVM\bin\Debug\net9.0\browser-wasm\publish\NativeLibrary.deps.json

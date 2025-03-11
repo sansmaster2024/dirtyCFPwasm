@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0/browser-wasm",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {},
+    ".NETCoreApp,Version=v9.0/browser-wasm": {
+      "NativeLibrary/1.0.0": {
+        "dependencies": {
+          "Microsoft.DotNet.ILCompiler.LLVM": "9.0.0-rc.1.24468.1",
+          "Microsoft.NET.ILLink.Tasks": "9.0.2",
+          "runtime.win-x64.Microsoft.DotNet.ILCompiler.LLVM": "9.0.0-rc.1.24468.1"
+        },
+        "runtime": {
+          "NativeLibrary.dll": {}
+        }
+      },
+      "Microsoft.DotNet.ILCompiler.LLVM/9.0.0-rc.1.24468.1": {
+        "dependencies": {
+          "runtime.browser-wasm.Microsoft.DotNet.ILCompiler.LLVM": "9.0.0-rc.1.24468.1"
+        }
+      },
+      "Microsoft.NET.ILLink.Tasks/9.0.2": {},
+      "runtime.browser-wasm.Microsoft.DotNet.ILCompiler.LLVM/9.0.0-rc.1.24468.1": {},
+      "runtime.win-x64.Microsoft.DotNet.ILCompiler.LLVM/9.0.0-rc.1.24468.1": {}
+    }
+  },
+  "libraries": {
+    "NativeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.DotNet.ILCompiler.LLVM/9.0.0-rc.1.24468.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T/NvIRtV/Y1nTefEkMJi2TFel0NRHPloxxa2hZlhMRHOq2M79yZrQSRf2b1wpq+iQqAqu4+7PS8xZJ5McSbwIg==",
+      "path": "microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1",
+      "hashPath": "microsoft.dotnet.ilcompiler.llvm.9.0.0-rc.1.24468.1.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+KFnCLVPicEq99ko0tq+ycTvNLXHw0tImmTZjPloB/DOFLPT56KLfk5aS7wbgXRPzYhXTTBYLGaABea5mke77w==",
+      "path": "microsoft.net.illink.tasks/9.0.2",
+      "hashPath": "microsoft.net.illink.tasks.9.0.2.nupkg.sha512"
+    },
+    "runtime.browser-wasm.Microsoft.DotNet.ILCompiler.LLVM/9.0.0-rc.1.24468.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-73TJJhGJnFYP273RFU4h32UpQSVYY29LzCQHSnera3LWzFrQ2YEOYD9fSRIIfRilW6N82CdJjV3EnHptWb11LA==",
+      "path": "runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1",
+      "hashPath": "runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm.9.0.0-rc.1.24468.1.nupkg.sha512"
+    },
+    "runtime.win-x64.Microsoft.DotNet.ILCompiler.LLVM/9.0.0-rc.1.24468.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/tokm6/qqTQjR/2EfSxb/toJubiAnZ4FFLqMyGwVtNrri++uhnf24iIhi6lO6K3+op3USTNxe/RftaKF4ZNUgw==",
+      "path": "runtime.win-x64.microsoft.dotnet.ilcompiler.llvm/9.0.0-rc.1.24468.1",
+      "hashPath": "runtime.win-x64.microsoft.dotnet.ilcompiler.llvm.9.0.0-rc.1.24468.1.nupkg.sha512"
+    }
+  },
+  "runtimes": {
+    "browser-wasm": [
+      "browser",
+      "any",
+      "base"
+    ]
+  }
+}

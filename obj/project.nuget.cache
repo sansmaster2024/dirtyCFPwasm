@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qcHyy6Cx3cU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jihoon\\Downloads\\nativeAOTLLVM\\NativeLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jihoon\\.nuget\\packages\\microsoft.dotnet.ilcompiler.llvm\\9.0.0-rc.1.24468.1\\microsoft.dotnet.ilcompiler.llvm.9.0.0-rc.1.24468.1.nupkg.sha512",
+    "C:\\Users\\jihoon\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.2\\microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
+    "C:\\Users\\jihoon\\.nuget\\packages\\runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm\\9.0.0-rc.1.24468.1\\runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm.9.0.0-rc.1.24468.1.nupkg.sha512",
+    "C:\\Users\\jihoon\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler.llvm\\9.0.0-rc.1.24468.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.llvm.9.0.0-rc.1.24468.1.nupkg.sha512"
+  ],
+  "logs": []
+}

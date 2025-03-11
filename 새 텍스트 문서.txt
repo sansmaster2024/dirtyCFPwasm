@@ -1,0 +1,2 @@
+dotnet publish -r browser-wasm -c Debug /p:TargetArchitecture=wasm --self-contained /p:PlatformTarget=AnyCPU /p:MSBuildEnableWorkloadResolver=false /p:EmccExtraArgs='main.c --js-library library_js.js'
+VS 켜두면 빌드 안되는 개버그있음

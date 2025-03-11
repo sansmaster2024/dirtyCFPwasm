@@ -1,0 +1,11 @@
+C:\Users\jihoon\Downloads\nativeAOTLLVM\bin\Debug\net9.0\browser-wasm\NativeLibrary.deps.json
+C:\Users\jihoon\Downloads\nativeAOTLLVM\bin\Debug\net9.0\browser-wasm\NativeLibrary.dll
+C:\Users\jihoon\Downloads\nativeAOTLLVM\bin\Debug\net9.0\browser-wasm\NativeLibrary.pdb
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Debug\net9.0\browser-wasm\NativeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Debug\net9.0\browser-wasm\NativeLibrary.AssemblyInfoInputs.cache
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Debug\net9.0\browser-wasm\NativeLibrary.AssemblyInfo.cs
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Debug\net9.0\browser-wasm\NativeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Debug\net9.0\browser-wasm\NativeLibrary.dll
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Debug\net9.0\browser-wasm\refint\NativeLibrary.dll
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Debug\net9.0\browser-wasm\NativeLibrary.pdb
+C:\Users\jihoon\Downloads\nativeAOTLLVM\obj\Debug\net9.0\browser-wasm\ref\NativeLibrary.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NativeLibrary", "NativeLibrary.csproj", "{92D03E77-DC9F-4006-AC68-6C94AD3892BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D03E77-DC9F-4006-AC68-6C94AD3892BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D03E77-DC9F-4006-AC68-6C94AD3892BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D03E77-DC9F-4006-AC68-6C94AD3892BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D03E77-DC9F-4006-AC68-6C94AD3892BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91589BC8-4BC4-4FA8-AC39-75CB9C271FA2}
+	EndGlobalSection
+EndGlobal
